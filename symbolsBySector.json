@@ -1,5 +1,5 @@
 {
-  "basic_mat": [
+  "basic_materials": [
     "BHP",
     "LIN",
     "BBL",
@@ -102,7 +102,7 @@
     "WPM",
     "X"
   ],
-  "comm": [
+  "communication_services": [
     "GOOGL",
     "GOOG",
     "FB",
@@ -204,7 +204,7 @@
     "ZM",
     "ZNGA"
   ],
-  "consumer_cyc": [
+  "consumer_cyclical": [
     "AMZN",
     "BABA",
     "HD",
@@ -306,7 +306,7 @@
     "WYNN",
     "YUMC"
   ],
-  "consumer_def": [
+  "consumer_defensive": [
     "WMT",
     "PG",
     "KO",
@@ -512,7 +512,7 @@
     "XEC",
     "YPF"
   ],
-  "fin_serv": [
+  "financial_services": [
     "BRK-A",
     "BRK-B",
     "HSBC-PA",
@@ -718,7 +718,7 @@
     "XRAY",
     "ZBH"
   ],
-  "indust": [
+  "industrials": [
     "BA",
     "UTX",
     "UNP",
@@ -821,7 +821,7 @@
     "ZNH",
     "ZTO"
   ],
-  "real_est": [
+  "real_estate": [
     "AMT",
     "CCI",
     "SPG-PJ",
@@ -924,7 +924,7 @@
     "WPC",
     "WY"
   ],
-  "tech": [
+  "technology": [
     "MSFT",
     "AAPL",
     "INTC",
@@ -1027,7 +1027,7 @@
     "XLNX",
     "ZBRA"
   ],
-  "util": [
+  "utilities": [
     "NEE",
     "SO",
     "DUK-PA",
